@@ -1,7 +1,7 @@
 # programming-practice
 # 💻 Programming Practice
 
-I'm a 2nd-year Computer Science student learning programming through hands-on practice and projects.
+Computer Science student learning programming through hands-on practice and projects.
 
 ### 🎯 Goals
 
